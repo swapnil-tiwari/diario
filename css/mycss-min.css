@@ -1,0 +1,15 @@
+@media only screen and (max-width: 768px)
+{
+	.taker
+	{
+		display: none;
+	}
+	.section1 .row .right
+	{
+		padding: 20px;
+	}
+	.txt-xsml
+	{
+		width: 300px;
+	}
+} 

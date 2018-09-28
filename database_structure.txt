@@ -1,0 +1,17 @@
+diario
+  -notes
+    .id
+    .username
+    .email
+    .title
+    .note
+  -registration
+    .username
+    .email
+    .password
+  -diary
+    .id
+    .date
+    .username
+    .email
+    .diary_data
